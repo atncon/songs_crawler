@@ -1,0 +1,552 @@
+{
+ "alternate_names": [
+  "Destiny Cyrus",
+  "Destiny Hope Cyrus",
+  "Miley Ray Cyrus"
+ ],
+ "api_path": "/artists/805",
+ "description": {
+  "plain": "Miley Ray Cyrus (born Destiny Hope Cyrus, November 23rd 1992) is an American singer, songwriter and actress, as well as the daughter of country singer Billy Ray Cyrus. She was named Destiny Hope Cyrus at birth but was given the nickname \u201cSmiley\u201d because she was always grinning. The name stuck and she legally changed it in 2008.\n\nHer singing career started simultaneously with her role in the Disney Channel television series Hannah Montana, which made her a teen idol. She was featured on the 2006 soundtrack of Hannah Montana. After signing a recording contract with Hollywood Records in 2007, she released Hannah Montana 2: Meet Miley Cyrus. The album served as both the series' soundtrack and Cyrus' debut studio album.\n\nWith the 2010 release of Can\u2019t Be Tamed, Cyrus developed a more mature image with a dance-oriented sound. The album caused controversy due to the lyrics and music video of Can\u2019t Be Tamed.\n\nIn 2013, Cyrus signed to RCA Records and released Bangerz, which debuted her new hip-hop influenced sound. She became one of the most award-nominated pop stars in the world. Bangerz brought Miley her biggest success, earning her more than 40 awards and a lot of views on YouTube. She won her first Video Music Award, in the category \u2018'Best Video of The Year\u2019\u2018 with the smash hit \u2019\u2018Wrecking Ball.\"\n\nIn 2015, Miley Cyrus released Miley Cyrus & Her Dead Petz' for free, available on SoundCloud, at the Video Music Awards. It was the first digital album to reach 100 million streams.\n\nIn an interview with Billboard, in May 2017, Cyrus talked about leaving the hip-hop scene because it was too much \u201cLamborghini, got my Rolex, got a girl on my cock.\u201c Her father shared with Billboard: \"This is Miley leaning into her roots more than I\u2019ve ever heard.\u201d\n\nA week later, Cyrus went back to her country roots with the release of \u201cMalibu\u201d."
+ },
+ "facebook_name": "MileyCyrus",
+ "followers_count": 1298,
+ "header_image_url": "https://images.genius.com/e7b1ea1f85517432fa841b0902f48239.1000x333x1.jpg",
+ "id": 805,
+ "image_url": "https://images.genius.com/01e4f909d7e2e8fafd4eeeb64c3a8acd.1000x1000x1.png",
+ "instagram_name": "mileycyrus",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Miley Cyrus",
+ "translation_artist": false,
+ "twitter_name": "MileyCyrus",
+ "url": "https://genius.com/artists/Miley-cyrus",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 132469,
+  "annotator_login": "twentypoundherald",
+  "api_path": "/referents/6926756",
+  "classification": "accepted",
+  "fragment": "Miley Cyrus",
+  "id": 6926756,
+  "is_description": true,
+  "path": "/6926756/Miley-cyrus/Miley-cyrus",
+  "range": {
+   "content": "Miley Cyrus"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6926756/Miley-cyrus/Miley-cyrus",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/805",
+   "context": null,
+   "id": 805,
+   "image_url": "https://images.genius.com/01e4f909d7e2e8fafd4eeeb64c3a8acd.1000x1000x1.png",
+   "link_title": "Miley Cyrus",
+   "title": "Miley Cyrus",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Miley-cyrus"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6926756",
+    "body": {
+     "plain": "Miley Ray Cyrus (born Destiny Hope Cyrus, November 23rd 1992) is an American singer, songwriter and actress, as well as the daughter of country singer Billy Ray Cyrus. She was named Destiny Hope Cyrus at birth but was given the nickname \u201cSmiley\u201d because she was always grinning. The name stuck and she legally changed it in 2008.\n\nHer singing career started simultaneously with her role in the Disney Channel television series Hannah Montana, which made her a teen idol. She was featured on the 2006 soundtrack of Hannah Montana. After signing a recording contract with Hollywood Records in 2007, she released Hannah Montana 2: Meet Miley Cyrus. The album served as both the series' soundtrack and Cyrus' debut studio album.\n\nWith the 2010 release of Can\u2019t Be Tamed, Cyrus developed a more mature image with a dance-oriented sound. The album caused controversy due to the lyrics and music video of Can\u2019t Be Tamed.\n\nIn 2013, Cyrus signed to RCA Records and released Bangerz, which debuted her new hip-hop influenced sound. She became one of the most award-nominated pop stars in the world. Bangerz brought Miley her biggest success, earning her more than 40 awards and a lot of views on YouTube. She won her first Video Music Award, in the category \u2018'Best Video of The Year\u2019\u2018 with the smash hit \u2019\u2018Wrecking Ball.\"\n\nIn 2015, Miley Cyrus released Miley Cyrus & Her Dead Petz' for free, available on SoundCloud, at the Video Music Awards. It was the first digital album to reach 100 million streams.\n\nIn an interview with Billboard, in May 2017, Cyrus talked about leaving the hip-hop scene because it was too much \u201cLamborghini, got my Rolex, got a girl on my cock.\u201c Her father shared with Billboard: \"This is Miley leaning into her roots more than I\u2019ve ever heard.\u201d\n\nA week later, Cyrus went back to her country roots with the release of \u201cMalibu\u201d."
+    },
+    "comment_count": 6,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6926756,
+    "pinned": false,
+    "share_url": "https://genius.com/6926756",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6926756/Miley-cyrus/Miley-cyrus",
+    "verified": false,
+    "votes_total": 47,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.5,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3906909",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/cbcb84901b94a309401528e0629b4963",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/cbcb84901b94a309401528e0629b4963",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/cbcb84901b94a309401528e0629b4963",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/cbcb84901b94a309401528e0629b4963",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/up7pwbPwSUO6vMcp7Vds_giphy.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 3906909,
+       "iq": 214759,
+       "login": "rubicks",
+       "name": "Rubicks",
+       "role_for_display": "editor",
+       "url": "https://genius.com/rubicks",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.23734177215189875,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11524",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/e7b84a26140d5becfc5614929303367f",
+       "human_readable_role_for_display": "Editor",
+       "id": 11524,
+       "iq": 277235,
+       "login": "tomi",
+       "name": "Tomi Fischer",
+       "role_for_display": "editor",
+       "url": "https://genius.com/tomi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.14240506329113922,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8276970",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b828b30ac6ca9088d127894557c8ebd4",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b828b30ac6ca9088d127894557c8ebd4",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b828b30ac6ca9088d127894557c8ebd4",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b828b30ac6ca9088d127894557c8ebd4",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3gyoqpfom2",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8276970,
+       "iq": 3474,
+       "login": "RickKilmer",
+       "name": "RickKilmer",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/RickKilmer",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.11075949367088608,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4840301",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f59b1a2893ea551f48ccbcd3eef54a32",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f59b1a2893ea551f48ccbcd3eef54a32",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f59b1a2893ea551f48ccbcd3eef54a32",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f59b1a2893ea551f48ccbcd3eef54a32",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/f59b1a2893ea551f48ccbcd3eef54a32",
+       "human_readable_role_for_display": null,
+       "id": 4840301,
+       "iq": 169,
+       "login": "vitortfv",
+       "name": "vitortfv",
+       "role_for_display": null,
+       "url": "https://genius.com/vitortfv",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.006329113924050634,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/132469",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/5e5ce128cfd33d6d4fe90f71895c4bdd",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/5e5ce128cfd33d6d4fe90f71895c4bdd",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/5e5ce128cfd33d6d4fe90f71895c4bdd",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/5e5ce128cfd33d6d4fe90f71895c4bdd",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/9ybvfz6dgw9",
+       "human_readable_role_for_display": "Contributor",
+       "id": 132469,
+       "iq": 32104,
+       "login": "twentypoundherald",
+       "name": "twentypoundherald",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/twentypoundherald",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.003164556962025317,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7479475",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4965e22a3223059d7a5863a93db36312",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4965e22a3223059d7a5863a93db36312",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4965e22a3223059d7a5863a93db36312",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4965e22a3223059d7a5863a93db36312",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/51szf5y7okc",
+       "human_readable_role_for_display": "Contributor",
+       "id": 7479475,
+       "iq": 34622,
+       "login": "taifrasier",
+       "name": "taifrasier",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/taifrasier",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 8,
+   "api_path": "/songs/3075800",
+   "full_title": "Malibu by\u00a0Miley\u00a0Cyrus",
+   "header_image_thumbnail_url": "https://images.genius.com/52e31048c1e52a0e2d68aa7b61e52c09.300x300x1.png",
+   "header_image_url": "https://images.genius.com/52e31048c1e52a0e2d68aa7b61e52c09.1000x1000x1.png",
+   "id": 3075800,
+   "lyrics_owner_id": 3235808,
+   "lyrics_state": "complete",
+   "path": "/Miley-cyrus-malibu-lyrics",
+   "pyongs_count": 82,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1150812ea3cb574770523308d15b8965.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1150812ea3cb574770523308d15b8965.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false,
+    "pageviews": 1003045
+   },
+   "title": "Malibu",
+   "title_with_featured": "Malibu",
+   "url": "https://genius.com/Miley-cyrus-malibu-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/805",
+    "header_image_url": "https://images.genius.com/e7b1ea1f85517432fa841b0902f48239.1000x333x1.jpg",
+    "id": 805,
+    "image_url": "https://images.genius.com/01e4f909d7e2e8fafd4eeeb64c3a8acd.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Miley Cyrus",
+    "url": "https://genius.com/artists/Miley-cyrus"
+   },
+   "artist": "Miley Cyrus",
+   "lyrics": "[Verse 1]\nI never came to the beach or stood by the ocean\nI never sat by the shore under the sun with my feet in the sand\nBut you brought me here, and I'm happy that you did\n'Cause now I'm as free, as birds catchin' the wind\nI always thought I would sink, so I never swam\nI never went boatin', don't get how they are floatin'\nAnd sometimes I get so scared of what I can't understand\n\n[Chorus]\nBut here I am, next to you\nThe sky's more blue in Malibu\nNext to you in Malibu\nNext to you\n\n[Verse 2]\nWe watched the sun go down as we were walkin'\nI'd spent the rest of my life just standing here talkin'\nYou would explain the current, as I just smile\nHoping that you'll stay the same and nothing will change\nAnd it'll be us, just for a while\nDo they even exist?\nThat's when I make a wish, to swim away with the fish\nCause it's supposed to be this hot all summer long\nI never would've believed you if three years ago you told me\nI'd be here writing this song\n\n[Chorus]\nBut here I am, next to you\nThe sky's so blue in Malibu\nNext to you in Malibu\nNext to you\nNext to you\nThe sky's so blue in Malibu\nNext to you\n\n[Outro]\nWe are just like the waves that flow back and forth\nSometimes I feel like I'm drowning\nAnd you're there to save me\nAnd I wanna thank you with all of my heart\nIt's a brand new start\nA dream come true in Malibu"
+  },
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/209747",
+   "full_title": "Wrecking Ball by\u00a0Miley\u00a0Cyrus",
+   "header_image_thumbnail_url": "https://images.genius.com/baecc6f9cba44e3e9030d2403584e6c6.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/baecc6f9cba44e3e9030d2403584e6c6.1000x1000x1.jpg",
+   "id": 209747,
+   "lyrics_owner_id": 149650,
+   "lyrics_state": "complete",
+   "path": "/Miley-cyrus-wrecking-ball-lyrics",
+   "pyongs_count": 161,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ed2348ca01b47d18605b14e75ea18ea3.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ed2348ca01b47d18605b14e75ea18ea3.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false,
+    "pageviews": 920975
+   },
+   "title": "Wrecking Ball",
+   "title_with_featured": "Wrecking Ball",
+   "url": "https://genius.com/Miley-cyrus-wrecking-ball-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/805",
+    "header_image_url": "https://images.genius.com/e7b1ea1f85517432fa841b0902f48239.1000x333x1.jpg",
+    "id": 805,
+    "image_url": "https://images.genius.com/01e4f909d7e2e8fafd4eeeb64c3a8acd.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Miley Cyrus",
+    "url": "https://genius.com/artists/Miley-cyrus"
+   },
+   "artist": "Miley Cyrus",
+   "lyrics": "[Verse 1]\nWe clawed, we chained, our hearts in vain\nWe jumped, never asking why\nWe kissed, I fell under your spell\nA love no one could deny\n\n[Pre-Chorus]\nDon't you ever say I just walked away\nI will always want you\nI can't live a lie, running for my life\nI will always want you\n\n[Chorus]\nI came in like a wrecking ball\nI never hit so hard in love\nAll I wanted was to break your walls\nAll you ever did was wreck me\nYeah, you, you wreck me\n\n[Verse 2]\nI put you high up in the sky\nAnd now, you're not coming down\nIt slowly turned, you let me burn\nAnd now, we're ashes on the ground\n\n[Pre-Chorus]\nDon't you ever say I just walked away\nI will always want you\nI can't live a lie, running for my life\nI will always want you\n\n[Chorus]\nI came in like a wrecking ball\nI never hit so hard in love\nAll I wanted was to break your walls\nAll you ever did was wreck me\nI came in like a wrecking ball\nYeah, I just closed my eyes and swung\nLeft me crashing in a blazing fall\nAll you ever did was wreck me\nYeah, you, you wreck me\n\n[Bridge]\nI never meant to start a war\nI just wanted you to let me in\nAnd instead of using force\nI guess I should've let you win\nI never meant to start a war\nI just wanted you to let me in\nI guess I should've let you win\n\n[Interlude]\nDon't you ever say I just walked away\nI will always want you\n\n[Chorus]\nI came in like a wrecking ball\nI never hit so hard in love\nAll I wanted was to break your walls\nAll you ever did was wreck me\nI came in like a wrecking ball\nYeah, I just closed my eyes and swung\nLeft me crashing in a blazing fall\nAll you ever did was wreck me\nYeah, you, you wreck me\nYeah, you, you wreck me"
+  },
+  {
+   "annotation_count": 17,
+   "api_path": "/songs/160600",
+   "full_title": "We Can't Stop by\u00a0Miley\u00a0Cyrus",
+   "header_image_thumbnail_url": "https://images.genius.com/baecc6f9cba44e3e9030d2403584e6c6.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/baecc6f9cba44e3e9030d2403584e6c6.1000x1000x1.jpg",
+   "id": 160600,
+   "lyrics_owner_id": 229704,
+   "lyrics_state": "complete",
+   "path": "/Miley-cyrus-we-cant-stop-lyrics",
+   "pyongs_count": 205,
+   "song_art_image_thumbnail_url": "https://images.genius.com/de2e4b47b17c6420ff34390f5531f0bb.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/de2e4b47b17c6420ff34390f5531f0bb.1000x1000x1.png",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "concurrents": 3,
+    "hot": false,
+    "pageviews": 692854
+   },
+   "title": "We Can\u2019t Stop",
+   "title_with_featured": "We Can't Stop",
+   "url": "https://genius.com/Miley-cyrus-we-cant-stop-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/805",
+    "header_image_url": "https://images.genius.com/e7b1ea1f85517432fa841b0902f48239.1000x333x1.jpg",
+    "id": 805,
+    "image_url": "https://images.genius.com/01e4f909d7e2e8fafd4eeeb64c3a8acd.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Miley Cyrus",
+    "url": "https://genius.com/artists/Miley-cyrus"
+   },
+   "artist": "Miley Cyrus",
+   "lyrics": "[Intro]\nIt's our party, we can do what we want\nIt's our party, we can say what we want\nIt's our party, we can love who we want\nWe can kiss who we want\nWe can screw who we want\nIt's our party, we can do what we want\nIt's our party, we can say what we want\nIt's our party, we can love who we want\nWe can kiss who we want\nWe can screw who we want\n\n[Verse 1]\nRed cups and sweaty bodies everywhere\nHands in the air like we don't care\n'Cause we came to have so much fun now\nBet somebody here might get some now\nIf you're not ready to go home\nCan I get a \"Hell no\"? (Hell no)\n'Cause we gonna go all night\nTill we see the sunlight, alright (Hey, hey, hey)\n\n[Pre-Chorus]\nSo la-da-di-da-di, we like to party\nDancing with Molly\nDoing whatever we want\nThis is our house\nThis is our rules\n\n[Chorus]\nAnd we can't stop\nAnd we won't stop\nCan't you see it's we who own the night?\nCan't you see it's we who 'bout that life?\nAnd we can't stop\nAnd we won't stop\nWe run things, things don't run we\nDon't take nothing from nobody, yeah, yeah\n\n[Post-Chorus]\nIt's our party, we can do what we want\nIt's our party, we can say what we want\nIt's our party, we can love who we want\nWe can kiss who we want\nWe can screw who we want\n\n[Verse 2]\nTo my homegirls here with the big butt\nShaking it like we at a strip club\nRemember only God can judge ya\nForget the haters, 'cause somebody loves ya\nAnd everyone in line in the bathroom\nTryna get a line in the bathroom\nWe all so turned up here\nGetting turned up, yeah, yeah, yeah, yeah\n\n[Pre-Chorus]\nSo la-da-di-da-di, we like to party\nDancing with Molly\nDoing whatever we want\nThis is our house\nThis is our rules\n\n[Chorus]\nAnd we can't stop\nAnd we won't stop\nCan't you see it's we who own the night?\nCan't you see it's we who 'bout that life?\nAnd we can't stop\nAnd we won't stop\nWe run things, things don't run we\nDon't take nothing from nobody, yeah, yeah\n\n[Post-Chorus]\nIt's our party, we can do what we want\nIt's our party, we can say what we want\nIt's our party, we can love who we want\nWe can kiss who we want\nWe can screw who we want\n\n[Bridge]\nIt's our party, we can do what we want to!\nIt's our house, we can love who we want to!\nIt's our song, we can sing if we want to!\nIt's my mouth, I can say what I want to\nYeah! Yeah! Yeah! Ehh!\n\n[Chorus]\nAnd we can't stop (Yeah)\nAnd we won't stop (Oh)\nCan't you see it's we who own the night?\nCan't you see it's we who 'bout that life?\nAnd we can't stop\nAnd we won't stop\nWe run things, things don't run we\nDon't take nothing from nobody, yeah, yeah\nYeah, yeah\n\n[Outro]\nWe can do what we want to\nWe can do what we want to"
+  }
+ ]
+}

@@ -1,0 +1,342 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2313673",
+ "description": {
+  "plain": "A92 is a Drill collective consisting of several drill rappers from Drogheda, Ireland.\n\nThey have beef with AV9 of Balbriggan, Ireland.\n\n\n\nKnown members:\n\n\nOffica\nKSav\nDbo\nBT\nKebz\nTrapboy\nAce\nNikz"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/3c1730a5394dca9d8d9ba8fcf4e7ab43.620x579x1.jpg",
+ "id": 2313673,
+ "image_url": "https://images.genius.com/cc11831ad8ae8b4176f9a64ef3387431.579x579x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "A92",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/A92",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 6032628,
+  "annotator_login": "garbagedawg",
+  "api_path": "/referents/20293253",
+  "classification": "unreviewed",
+  "fragment": "A92",
+  "id": 20293253,
+  "is_description": true,
+  "path": "/20293253/A92/A92",
+  "range": {
+   "content": "A92"
+  },
+  "song_id": null,
+  "url": "https://genius.com/20293253/A92/A92",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2313673",
+   "context": null,
+   "id": 2313673,
+   "image_url": "https://images.genius.com/cc11831ad8ae8b4176f9a64ef3387431.579x579x1.jpg",
+   "link_title": "A92",
+   "title": "A92",
+   "type": "Artist",
+   "url": "https://genius.com/artists/A92"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/20293253",
+    "body": {
+     "plain": "A92 is a Drill collective consisting of several drill rappers from Drogheda, Ireland.\n\nThey have beef with AV9 of Balbriggan, Ireland.\n\n\n\nKnown members:\n\n\nOffica\nKSav\nDbo\nBT\nKebz\nTrapboy\nAce\nNikz"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 20293253,
+    "pinned": false,
+    "share_url": "https://genius.com/20293253",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/20293253/A92/A92",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6032628",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/09cdbdd041ed338a712f3581bc5569ca",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/09cdbdd041ed338a712f3581bc5569ca",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/09cdbdd041ed338a712f3581bc5569ca",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/09cdbdd041ed338a712f3581bc5569ca",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/x1j8wasi218",
+       "human_readable_role_for_display": "Contributor",
+       "id": 6032628,
+       "iq": 3359,
+       "login": "garbagedawg",
+       "name": "garbagedawg",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/garbagedawg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 40,
+   "api_path": "/songs/6046886",
+   "full_title": "Plugged In Freestyle by\u00a0A92 (Ft.\u00a0BT\u00a0(A92), Dbo\u00a0(A92), KSav\u00a0(A92) & Offica)",
+   "header_image_thumbnail_url": "https://images.genius.com/2e5e9c97b0f5b134ff9b91e8eaf73722.300x169x1.jpg",
+   "header_image_url": "https://images.genius.com/2e5e9c97b0f5b134ff9b91e8eaf73722.1000x564x1.jpg",
+   "id": 6046886,
+   "lyrics_owner_id": 10405613,
+   "lyrics_state": "complete",
+   "path": "/A92-plugged-in-freestyle-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3ef3ec4269e9b0dea1782a749a14bcbb.300x225x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3ef3ec4269e9b0dea1782a749a14bcbb.480x360x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 40,
+    "concurrents": 23,
+    "hot": false,
+    "pageviews": 118779
+   },
+   "title": "Plugged In Freestyle",
+   "title_with_featured": "Plugged In Freestyle (Ft.\u00a0BT\u00a0(A92), Dbo\u00a0(A92), KSav\u00a0(A92) & Offica)",
+   "url": "https://genius.com/A92-plugged-in-freestyle-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/2313673",
+    "header_image_url": "https://images.genius.com/3c1730a5394dca9d8d9ba8fcf4e7ab43.620x579x1.jpg",
+    "id": 2313673,
+    "image_url": "https://images.genius.com/cc11831ad8ae8b4176f9a64ef3387431.579x579x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "A92",
+    "url": "https://genius.com/artists/A92"
+   },
+   "artist": "A92",
+   "lyrics": "[Intro: Ksav]\nA92\nFumez the Engineer, Plugged In\nGang\nYo, Charlie\nI like this one\n92 baby\nIt's K\n\n[Verse 1: Ksav]\nI\u2019ll swing my arm in a figure of 8\nOr I won't leave till the whole clip empty\nThem boy ain't nothing but pagions\nI can see why them boy love envy\nI want LV, Prada or Gucci\nI might just offend my opps in Fendi\nAnd when juice get spilled like soda\nNo I won't say no words like Kenny\n\n[Verse 2: Dbo]\nMy hand ting coming like Corona\nIf it coughs twice then it's turning you pack\nThey say that we come like athletes\nCircle your block and we do them laps\nAll out attack tryna get this pagion\nAll out attack in the fields, don't lack\nHe thought he was big lik\u0435 mac\n'Till I pulled out this stick tryna swing for backs\n[Verse 3: Trapboy BT]\nIn the bando, no Kay\nBut I still make K\u2019s from this Lyca sim\nTh\u0435 jake boys irritate my skin\nCan't put me in the bin, no comment, can't sing\nDont sing like 6, dont snitch like 9\nStill circle the nine 2 times\nWith a machine no gym\nTryna put him in the sky\nMake an opp boy fly\nGet whacked by mine\n\n[Verse 4: Offica]\nWhere them at, where them be, where the paigons get?\nMake the boy's eyes look like an asian\nMan we get round there on any occasion\nIt ain't a ride out, it's an invasion\nAnd if you fuck with them, it's a simple equation\nYou're an opp boy, your a paigon\nA ti lo a ti d\u00e9, more time when we slide round there its a quick ting, no calculation\n\n[Verse 5: Ksav]\nBy God\u2019s grace I dont end up a lifer\nBut I still slide, see me and we\u2019ll ride out\nI ying yang like China, rip 2 g\u2019s\nMake them drip like designer\nOn the block dressed in black like China\nFresh air ones, see me in my sliders\nHopefully I ain't got to remind yous\nUp the A and fuck the Niners\nI can't stand them boy from the Nine\nAll they know is tell lies, tell lies\nBut there main boy got splashed, baptised\nAnd another Nine boy got hospitalised\nAny talk on the A get bun\nDrills get done by me and the guys\nDbo tryna swing for backs\nHe can't swing for backs, so they stay inside\n[Verse 6: Dbo]\nScar man\u2019s face like Al Pacino\nBuck into A and you can hold 2 on the pain, no free throw\nBow, bun, and the gun need reload\nStuck in the trap with one eye open\nHoping the cats don't drop that kilo\nDbo, fundz you can\u2019t miss me on road\nFundz, 'cause man's got green like Cee-Lo\nBro bro went and bust that gun\nI dont think that he\u2019ll bust that case\nThey say we dont slide to the B\nBut Foomey\u2019s gaff got smashed, no trace\nThey left Rexy fighting for his life\nOn a hospital bed, got chinged broad day\nA1 give her dick in her belly, which side is she on?\nAsk your pagion bae\n\n[Verse 7: Trapboy BT]\nAbout slide to the B, we slide to the B\nHow many man got chased by we?\nAnd lil' man Rose got got times 3\nAll the Niners, watched them flee\nWas me and MZ tryna catch them three\nTryna switch it like OT Chi\nBut I'm in OT tryna make this cheese\nI lurked down the B Town strip\nI was pissed that he didn't get hit\nTell bro rise that mash and spit\nAim for his top or aim for his wig\nI seen bro grab that stick\nBally on his face, he's taking that risk\nLet sticks beat like drum kit\nPull up on them and pump it\nTryna let it blow like trumpets\nAt them muppets\n[Verse 8: Offica]\nBro said to hold this stick\nMan you need them muscles\nHe let it spray like Mr Muscles\nChocolate ting from Belgium, Brussels\nShe wanna go low\nMan bring them bottles\nWait, she wanna jiggle and wiggle\nThis bad b one split in the middle\nLeng, bunda come fat, not little\nAll my girls them sweet like Skittles\nYo, baby, how you move like that?\nThis gyally wanna arch her back\nGo low, limbo, limbo, touch your toe\nNo Elvis, baby, when I rock and roll\nMe and my guys, we flow like the river\nChat loos, get one in your liver\nOr maybe your intestine\nI got love for my gang, don't test man\n\n[Verse 9: Ksav]\nI got washed up opps, it's peak\n'Cause you man move gay, that's suttin' like Marvin\nOut in the town tryna dish these foods\nEnds are hot, but these cats be starving\nWe score them goals like Fifa\nBut we don't commentate like Marvin\nNo Taylor when we got down Swift\n2 more down, that's no more targets\n\n[Verse 10: Dbo]\nI do them in my Nike tracksuit and sliders\nI do that there in my LV kicks\nMust be the one who's spreading this virus\n'Cause everyone knows that my flows too sick\nOT flying, we riding\nOut on the field tryna catch me a prick\nBando days, we spin 'round driving\nWave this wand in my hand, no wiz\n\n[Verse 11: Trapboy BT]\nAy, I've been in the T with profit\nBruck down buds tryna make that profit\nThey chat on the net and gossip\nA92, we the hottest topic\nShout SS for the pocket rocket\nDBO got the plug like socket\nI been 'round there on a madness\nWatch them dash\nWhat happened to the badness?\n\n[Verse 12: Offica]\nIn the block like awon da oya b\u2019ota\nHow many points have we scored in the last few weeks?\nMeji, merin, mefa\nOn the ball, 22 on my back like Kaka\nBro scores like Laca\nShoot and they scatter\nWatch them man japa\nBoppity bop, boppity bop\nGbe soke ju sile omo dancer"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/6011543",
+   "full_title": "A9 Link Up by\u00a0A92",
+   "header_image_thumbnail_url": "https://images.genius.com/af1092546db7c3c27ec0bb5ece73678d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/af1092546db7c3c27ec0bb5ece73678d.500x500x1.jpg",
+   "id": 6011543,
+   "lyrics_owner_id": 10652288,
+   "lyrics_state": "complete",
+   "path": "/A92-a9-link-up-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/af1092546db7c3c27ec0bb5ece73678d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/af1092546db7c3c27ec0bb5ece73678d.500x500x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 2,
+    "hot": false
+   },
+   "title": "A9 Link Up",
+   "title_with_featured": "A9 Link Up",
+   "url": "https://genius.com/A92-a9-link-up-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/2313673",
+    "header_image_url": "https://images.genius.com/3c1730a5394dca9d8d9ba8fcf4e7ab43.620x579x1.jpg",
+    "id": 2313673,
+    "image_url": "https://images.genius.com/cc11831ad8ae8b4176f9a64ef3387431.579x579x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "A92",
+    "url": "https://genius.com/artists/A92"
+   },
+   "artist": "A92",
+   "lyrics": "[Intro]\nJBJ Productions\nGotcha\nLike Ace done did it, done done it again\nBow, bow\nYo\n\n[Verse 1: Ace]\nCan't hack these lies if you step\nYo, yo, make a man just beat like Ghosty\nOne word and it's gonna get long\nTell a man just stay in your lane like Tory\nI ain't really got time for a paigan\nWhen I come back, I'ma turn my story\nGlory, gotta take all that glory\nNo way, got a bad b from Norway\nLet a girl wan' rock in Prada\nShe count whine 'till it beat like a drummer\nDon't step in my zone two times\nIt's peak, got us looking more like its karma\nYo, yo, I'm Ace, I'm a well known rapper\nReal MC no harmer\nIf an opp boy step out with no armor\nLet the beef fry, numb\u0435r 1 jump starter\n\n[Verse 2: Nikz]\nMore time bounc\u0435 with the stick like pogo\nLet that go, rurr, rurr, rurr, rurr\nUp and down these roads, no yoyo\nSkrr, lean out, skrr, skrr, skrr\nBow, I can't fuck with a popo\nI just say 'I don't know, no, no'\nI still pop out with my G like Polo\nYolo, green light, go, go, go\nI got a lil pump, esskeetit\nTap-tap, see the boy then run\nBally on my face when I hop out the whip\nMore time so you can't see me like John\nI don't care if he's hench like Ryback\nCah the gun would have bussed like porn\nFeed my sons, my sons get fed\nSo feed me more if you want this corn\n[Verse 3: Dbo]\nA92, we apply that pressure\nI could never fold like wallet\nCop it, chop it, press it, sell it\nMan's tryna make that profit\nI bunned a zoot, stayed high like rockets\n'Cause man's got the plug like sockets\nYou got love for your paigan baby\nYo baby, come wined up on it\nBro bro's on the wing like Gareth\nIf he gets bagged, they ain't giving out bail\nThat yute couldn't save his bro\nNext time, gonna leave touch red like Wales\nI'm really tryna make it flip\nThen it's back to the trap, put food on scales\nGet mummy and daddy some acres\nGun on my side, so a man don't fail\n\n[Verse 4: Trapboy]\nStepped out on the block, like yo what's good?\nThe jakes stopped me 'cause I'm wearing a hood\nOr maybe they know that I'm dishing out food\nCome like MacDonalds, serving this grub\nThis dotts will heat up your chest like rub\nGrab it, aim it, shoot, skiddy bop\nCorn just tear up your shirt like Hulk Hogan\nAin't stopping till that boy gets got\nYou gon' see when I M that punk\nMan I'll take that risk like I'm Jeff Hardy\nDon't think they can question me\nThey've been on ropes like WWE\nI'm a 92 baby, the gyal go crazy\nGot a bad b like Jay-Z\nSee the gang go brazy, too many ladies\nBut I'm just tryna get this cakey\n[Verse 5: Kebz]\nAye, are you ready or not?\nThey wan' play hide and seek\nWe do this every week\nIn the bando, so we cannot sleep\nHuh, who's bad on b?\nRun a man down 'till I hurt my feet\n5 man squashed in the back of the seat\nDon't wanna go home 'till the mission's complete\nMan like Kebz, I'm a young black king do you know?\nHuh, where the paves tho?\nYou can't come 'round here no more\nNah, nah, that's a no-no\nWe tear that block like Diego\nGo, go, go Diego\nGet 'round there where they're a no-show\n\n[Verse 6: KSav]\nThis gang's too lit\nSo we get litty\nWelcome to the D-Town block\nIn god we trust like a holy city\nOver here we got shotties and shotties\nShelled off one, saw a brownskin pretty\nI got cats and I got bare kitties\nOn my line, see the P like Diddy\nRiding under, you're silly\nI live a sweet life like Zack, not Cody\nMy bro's stuck in the T, no Cody\nHe got white in the house like trumps\nSo he can't sleep but he stacked that posy\nI roll in 2's or 4 no Kobe\n[?] in my Jack, no Jones\nSo best run if I step on my 'lones\nSee gal love me when I [?] holes\n[Verse 7: Offica]\nAye what's up, what's up\nTell me what you know 'bout A9 link up\nGally on me tryna get my dick up\nDon't talk on the net, man come with your fist up\nBro's got the ting and he's giving out kisses\nTurn them to mist, he ain't missing\nCome to who's yard, are you fucking kidding?\nGot some lil' light in the kitchen\n'Cause I'm in charge of it, General Sergeant Officer\nAnd they keep calling me police but omo emi o se olopa\nAnd I said it before and I'll say it again: bu si ta kebawaja\nRide out in the car, ride out in Okada\nJump out, gang jump out the whip\nSlapped him in the face, tell him who is his father"
+  },
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/6160303",
+   "full_title": "Wrist on Bop by\u00a0A92 (Ft.\u00a0Dbo\u00a0(A92), KSav\u00a0(A92) & Nikz\u00a0(A92))",
+   "header_image_thumbnail_url": "https://images.genius.com/3ddb49483bef07983cd8a12cad7a4d3f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3ddb49483bef07983cd8a12cad7a4d3f.594x594x1.jpg",
+   "id": 6160303,
+   "lyrics_owner_id": 8575602,
+   "lyrics_state": "complete",
+   "path": "/A92-wrist-on-bop-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3ddb49483bef07983cd8a12cad7a4d3f.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3ddb49483bef07983cd8a12cad7a4d3f.594x594x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 5,
+    "hot": false
+   },
+   "title": "Wrist on Bop",
+   "title_with_featured": "Wrist on Bop (Ft.\u00a0Dbo\u00a0(A92), KSav\u00a0(A92) & Nikz\u00a0(A92))",
+   "url": "https://genius.com/A92-wrist-on-bop-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/2313673",
+    "header_image_url": "https://images.genius.com/3c1730a5394dca9d8d9ba8fcf4e7ab43.620x579x1.jpg",
+    "id": 2313673,
+    "image_url": "https://images.genius.com/cc11831ad8ae8b4176f9a64ef3387431.579x579x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "A92",
+    "url": "https://genius.com/artists/A92"
+   },
+   "artist": "A92",
+   "lyrics": "[Intro: KSav, Nikz, Dbo]\nIt's K\n92 baby\nUh huh, Young Nikz\nDbo Fundz, you can\u2019t miss me on roads\n\n[Chorus: Dbo]\nMy side, my side we got it on lock\nMans got the food in pots\nI whipped that up let the ting turn rock (yo)\nLook at the flick of the wrist\nMy wrist on bop, my wrist on bop, ayy\nLook at the flick of the wrist\nMy wrist on bop, my wrist on bop, ayy, ayy\nMy wrist on bop\nMy side, my side we got it on lock (woosh)\nMans got the food in pots\nI whipped that up let the ting turn rock\nLook at the flick of the wrist\nMy wrist on bop, my wrist on bop, ayy\nLook at the flick of the wrist\nMy wrist on bop, my wrist on bop, ayy, ayy\nMy wrist on bop\n\n[Verse 1: KSav]\nMy wrist on bop, my wrist on bop\nYou know me I've chilled on the block\nAre they really riding? Of course they're not\nD-town all about p\u2019s and bops\nSo it's love for the money\nNot love for a thot\nYute over there got drenched in his liver\nI guess he was left in this pool like Klopp\nBare juice spilled now we're 7 up\nMy team we stay on top\nCause you know we set trends they copy\nI'm a boss like Hugo\nSo mind how you speak or you'll have to get boxed like Rocky\nI want ice, no hockey\nYutes get bucked, I ain't talking Milawaukee\nI told bro just slap that shotty\nGyally on me cause she wants this cocky\n[Verse 2: Nikz]\nMiss Polly had the dolly\nIt was 666 but she probably wouldn't want to hold this dick\nHeard that they came to the A\nThat's calm cah I\u2019m on the B side really tryna catch this prick\nAsk your paigon bae how the mandem taste\nCah true say she just sucked nuff dick\nWhen I do it on my jays like Hus, no cap\nI step with my bro like Morty and Rick\nLook at the flick of the wrist when I backed that\nScored 3 points, call me Stephen Curry\nSquashed 5 man in the back, double tap that\nSearch and destroy, tryna catch me a body\nDo it like S tryna pack me a Niner\nOn the opp block like, let\u2019s find wally\nMy and my riders school these kids\nSo more time they don't even gotta go colly\n\n[Chorus: Dbo]\nMy side, my side we got it on lock\nMans got the food in pots\nI whipped that up let the ting turn rock (yo)\nLook at the flick of the wrist\nMy wrist on bop, my wrist on bop, ayy\nLook at the flick of the wrist\nMy wrist on bop, my wrist on bop, ayy, ayy\nMy wrist on bop\nMy side, my side we got it on lock (woosh)\nMans got the food in pots\nI whipped that up let the ting turn rock\nLook at the flick of the wrist\nMy wrist on bop, my wrist on bop, ayy\nLook at the flick of the wrist\nMy wrist on bop, my wrist on bop, ayy, ayy\nMy wrist on bop\n[Verse 3: Ksav]\nI need a bad b like Keisha\nI need a real one Alakeisha\nSpin the whip get the smoke like shisha\nOne hand on the wheel, other hand on Teresa\nShe listens to me, I\u2019m the preacher\nPreach her, now she staring Mona Lisa\nThis is how we do like Rita\nIf you ain't with it then it's bye like Felicia\nYo, it's K, I can\u2019t lie on the beat no way\nWent to the strip, where's cr\u00e8me brulee?\nI heard he done legs and left his mates\nAyy, ayy, where's bae, shake that ass\nGo cray, go cray\nSipping on gin or some champagne\nShe go on her knees, she ain't going to pray\nNo way\n\n[Verse 4: Nikz]\nBad one, arch it\nOne back it, she ratchet\nGrab waps and slap it\nHella man take off like rocket\nSwing it and cheff it\nGot flickys in our pockets\nAnd I make cats jump like moshpits\nMore time 'cause we got plugs no sockets\nI beef dads, I ain't gonna lie\nI don't give a fuck I don't care about age\nNiggas go gym and they come to the block\nMake a big man duss when I back this gauge\nWe had Ponto hiding in barbershops\nNo trims but he can get shaved\nThe feds ain't pull up\nHe woulda been dead up\nPissed 'cause the paigon boy got saved\n[Verse 5: Ksav,Nikz]\nOi NIkz\nWagwan\nDid you get the brudda?\nGo stunt for the net you actors\nAnd I seen nuff green like farmers\nAnd you know I've been in the field like tractors\nSee me in the real life babe\nI'm a real life thug\nTryna turn man ghost like Casper\nIf I hop on the track it's a wrap, it's a wrap\nCause they know I'm a well known rapper\n\n[Chorus: Dbo]\nMy side, my side we got it on lock\nMans got the food in pots\nI whipped that up let the ting turn rock\nLook at the flick of the wrist\nMy wrist on bop, my wrist on bop, ayy\nLook at the flick of the wrist\nMy wrist on bop, my wrist on bop, ayy, ayy\nMy wrist on bop\nMy side, my side we got it on lock\nMans got the food in pots\nI whipped that up let the ting turn rock\nLook at the flick of the wrist\nMy wrist on bop, my wrist on bop, ayy\nLook at the flick of the wrist\nMy wrist on bop, my wrist on bop, ayy, ayy\nMy wrist on bop"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/5880410",
+   "full_title": "Who\u2019s on Who #Irishdrill by\u00a0A92 (Ft.\u00a0BT\u00a0(A92) & Kebz\u00a0(A92))",
+   "header_image_thumbnail_url": "https://images.genius.com/3b1e39594bbea95bb22c5496c66d4288.300x169x1.jpg",
+   "header_image_url": "https://images.genius.com/3b1e39594bbea95bb22c5496c66d4288.1000x563x1.jpg",
+   "id": 5880410,
+   "lyrics_owner_id": 10405613,
+   "lyrics_state": "complete",
+   "path": "/A92-whos-on-who-irishdrill-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/94d7268454bf6d1f2c7947efb851ff86.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/94d7268454bf6d1f2c7947efb851ff86.500x500x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 1,
+    "hot": false
+   },
+   "title": "Who\u2019s on Who #Irishdrill",
+   "title_with_featured": "Who\u2019s on Who #Irishdrill (Ft.\u00a0BT\u00a0(A92) & Kebz\u00a0(A92))",
+   "url": "https://genius.com/A92-whos-on-who-irishdrill-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/2313673",
+    "header_image_url": "https://images.genius.com/3c1730a5394dca9d8d9ba8fcf4e7ab43.620x579x1.jpg",
+    "id": 2313673,
+    "image_url": "https://images.genius.com/cc11831ad8ae8b4176f9a64ef3387431.579x579x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "A92",
+    "url": "https://genius.com/artists/A92"
+   },
+   "artist": "A92",
+   "lyrics": "[Verse 1: Kebz]\nI remember that day so clear i was given a drop lets go in a glide\nWas me and Mr.O with a shank at my side in the back of the ride\nGot 20 man deep on violence, ofpps done legs and they run for there lifes\nHow many times are the feds gonna save them man gotta, gotta count to the gildelide (pissed)\nMan like Kebz i was never brought up in from the d but i got love for the A92 we ain't no friends were family\nLet me get this straight\n[?] been rated on streets\nBut the life that i live these days got my head spittin bars on drill type beats\n\n[Verse 2: BT]\nIm a real trap boy from the A92\nWell known for dishing out food\nWhen i step in the dance got packs in the room\nShout MF you ain't got that to\nBruck that down man break it in 2\u2019 or 3\u2019s or 4\u2019s\nShank on my waste im ready for war\n[?] gottshout big bro he got a hammer like thor\nI Been on the roads all season\nThey call me Trap Boy for a reason\nGot all the bad b\u2019s catting and teasing\nMe and Dbo in the back just creasing\nCreasing, swing that fist and sleep him\nDo that bait don\u2019t care who\u2019s preeing\nI was 15 when i started dealing, turned 16 and i fucked up the streets\n17, i was whipping in pods now i\u2019m 8 and can\u2019t run out of luck\nCause the jakeboys want to put me in cuffs\nWhite or green yeah i got that stuff\n[Chorus: Kebz]\n(Who\u2019s on Who?, Who\u2019s on Who?)\nHow many times did the paigons say that they armed to the 92 crew\nPull up to your block like peek-a-boo\nHuh, huh, we\u2019re on to you\nYou better not lack on the road my boys come quick like Pikachu, my boys come quick like Pikachu\nWho\u2019s on Who? Who\u2019s on Who?\nHow many times did the paigons say that they armed to the 92 crew\nHuh, huh, we\u2019re on to you\nYou better not lack on the road my boys come quick like Pikachu, my boys come quick like Pikachu\n\n[Verse 3: BT]\nWhen i came to your block yeah i [?] that sheen\nThe feds tried knicked the kid cause they said im serving that green\nIf you\u2019re looking for the white in trees bell my line call my 083\nA92 but i\u2019m OC living bang your boots and i bang your sibling\nIt gets all peak when i back out the kitchen\n\n[Verse 4: Kebz]\nAnd now i\u2019m stepping 2 packs up (uh huh)\nBut it ain\u2019t no biggie\nBally on face and the hoods i rob, all eyes on me, man i do it like 50\nGot a chocolate darling draking cause don\u2019t love that bitch like Kiki\nNow your girls like \u201coh na na, what\u2019s my name\u201d i ain\u2019t calling her Riri\nWe don\u2019t serve them shits on tip (no way)\nCause we might just lose it\nMy team step out all black from head to toe, yeah we can just do it\nAnd the paigons claim that they\u2019re armed to the gang\nI beg you come prove it\nI come mad like Madagascar, yeah, but i like to move it\n[Chorus: Kebz]\n(Who\u2019s on Who?, Who\u2019s on Who?)\nHow many times did the paigons say that they armed to the 92 crew\nPull up to your block like peek-a-boo\nHuh, huh, we\u2019re on to you\nYou better not lack on the road my boys come quick like Pikachu, my boys come quick like Pikachu\nWho\u2019s on Who? Who\u2019s on Who?\nHow many times did the paigons say that they armed to the 92 crew\nHuh, huh, we\u2019re on to you\nYou better not lack on the road my boys come quick like Pikachu, my boys come quick like Pikachu\n\n[Outro: BT]\n(i\u2019m a real trap boy from the A92)"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/5747785",
+   "full_title": "No Hook (offica x bt) by\u00a0A92 (Ft.\u00a0BT\u00a0(A92) & Offica)",
+   "header_image_thumbnail_url": "https://images.genius.com/f73c8eb0a1bd4b909bfa18d5e67f308f.300x225x1.jpg",
+   "header_image_url": "https://images.genius.com/f73c8eb0a1bd4b909bfa18d5e67f308f.640x480x1.jpg",
+   "id": 5747785,
+   "lyrics_owner_id": 10405613,
+   "lyrics_state": "complete",
+   "path": "/A92-no-hook-offica-x-bt-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f73c8eb0a1bd4b909bfa18d5e67f308f.300x225x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f73c8eb0a1bd4b909bfa18d5e67f308f.640x480x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 1,
+    "hot": false
+   },
+   "title": "No Hook (offica x bt)",
+   "title_with_featured": "No Hook (offica x bt) (Ft.\u00a0BT\u00a0(A92) & Offica)",
+   "url": "https://genius.com/A92-no-hook-offica-x-bt-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/2313673",
+    "header_image_url": "https://images.genius.com/3c1730a5394dca9d8d9ba8fcf4e7ab43.620x579x1.jpg",
+    "id": 2313673,
+    "image_url": "https://images.genius.com/cc11831ad8ae8b4176f9a64ef3387431.579x579x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "A92",
+    "url": "https://genius.com/artists/A92"
+   },
+   "artist": "A92",
+   "lyrics": "Offica and BT"
+  }
+ ]
+}

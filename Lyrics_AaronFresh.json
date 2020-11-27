@@ -1,0 +1,273 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/11594",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+ "id": 11594,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Aaron Fresh",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Aaron-fresh",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 14216,
+  "annotator_login": "Chata",
+  "api_path": "/referents/6935200",
+  "classification": "needs_exegesis",
+  "fragment": "Aaron Fresh",
+  "id": 6935200,
+  "is_description": true,
+  "path": "/6935200/Aaron-fresh/Aaron-fresh",
+  "range": {
+   "content": "Aaron Fresh"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6935200/Aaron-fresh/Aaron-fresh",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/11594",
+   "context": null,
+   "id": 11594,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1605635080",
+   "link_title": "Aaron Fresh",
+   "title": "Aaron Fresh",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Aaron-fresh"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6935200",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6935200,
+    "pinned": false,
+    "share_url": "https://genius.com/6935200",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/6935200/Aaron-fresh/Aaron-fresh",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/14216",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1605635080",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1605635080",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1605635080",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "human_readable_role_for_display": null,
+       "id": 14216,
+       "iq": -2,
+       "login": "Chata",
+       "name": "Chata",
+       "role_for_display": null,
+       "url": "https://genius.com/Chata",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/49814",
+   "full_title": "Spending all my time by\u00a0Aaron\u00a0Fresh",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1605635080",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1605635080",
+   "id": 49814,
+   "lyrics_owner_id": 14216,
+   "lyrics_state": "complete",
+   "path": "/Aaron-fresh-spending-all-my-time-lyrics",
+   "pyongs_count": 5,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1605635080",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1605635080",
+   "stats": {
+    "unreviewed_annotations": 1,
+    "hot": false
+   },
+   "title": "Spending all my time",
+   "title_with_featured": "Spending all my time",
+   "url": "https://genius.com/Aaron-fresh-spending-all-my-time-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/11594",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+    "id": 11594,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Aaron Fresh",
+    "url": "https://genius.com/artists/Aaron-fresh"
+   },
+   "artist": "Aaron Fresh",
+   "lyrics": "Spendin' all my time\nAh nah nah nah nah ooh\nAh nah nah nah nah ooh\n(ooooh woah]\n\nSpening all my time lovin' you\nAll my time lovin' you\nNeed a few more seconds in my day\nSpending all my time lovin' you\nAll my time lovin' you\nEvery minutes runnin' away\nFrom when I wake up\nTo when she lay down\nAll I got is you baby on my brain\nSpending all my time lovin' you\nAll my time lovin' you\n25 hours in my day\n\nThe clock ain't long enough\nOn the wall\nSo I spend another minute with you\nI'm not strong enough\nThat's why I fall\nEverytime that I'm lookin' at you\nYou got my attention\nI forgot to mention\nYou're the most beautiful girl I know\nAnd I got no place to go\nSpending all my time lovin' you\nAll my time lovin' you\nNeed a few more seconds in my day\nSpending all my time lovin' you\nAll my time lovin' you\nEvery minutes runnin' away\nFrom when I wake up\nTo when I lay down\nAll I got is you baby on my brain\nSpending all my time lovin' you\nAll my time lovin' you\n25 hours in my day\n\nI got everything; I got nothing\nIf they take you away from me\nI'm your medicine\nMake you better when\nAll your hopes start runnin' away\nBaby this is your song\nNo it's not the slow song\nSay anything just to make you smile\nBaby won't you stay awhile?\n\nSpending all my time lovin' you\nAll my time lovin' you\nNeed a few more seconds in my day\nSpending all my time lovin' you\nAll my time lovin' you\nEvery minutes runnin' away\nFrom when I wake up\nTo when I lay down\nAll I got is you baby on my brain\nSpending all my time lovin' you\nAll my time lovin' you\n25 hours in my day\nIf you got somebody that you\nFeel this way about say oooh\n(say oooh)\nAnd if you got somebody that you\nCan't live without say oooh\n(say oooh)\nAnd if you got somebody that you\nFeel this way about say oooh\nNah nah nah nah\n(say oooh)\nNah nah nah nah\nAnd if you got somebody that you\nCan't live without say ooooh\n(say ooooh)\n\nI'm spending all my time lovin' you\nAll my time lovin' you\nNeed a few more seconds in my day\nSpending all my time lovin' you\nAll my time lovin' you\nEvery minutes runnin' away\nFrom when I wake up\nTo when I lay down\nAll I got is you baby on my brain\nSpending all my time lovin' you\nAll my time lovin' you\n25 hours in my day\nSpending all my time lovin' you\nAll my time lovin' you\nNeed a few more seconds in my day\nSpending all my time lovin' you\nAll my time lovin' you\nEvery minutes runnin' away\nFrom when I wake up\nTo when I lay down\nAll I got is you baby on my brain\nSpending all my time lovin' you\nAll my time lovin' you\n25 hours in my day\""
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1862134",
+   "full_title": "Dirty Girl by\u00a0Aaron\u00a0Fresh",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1605635080",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1605635080",
+   "id": 1862134,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Aaron-fresh-dirty-girl-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1605635080",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1605635080",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "Dirty Girl",
+   "title_with_featured": "Dirty Girl",
+   "url": "https://genius.com/Aaron-fresh-dirty-girl-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/11594",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+    "id": 11594,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Aaron Fresh",
+    "url": "https://genius.com/artists/Aaron-fresh"
+   },
+   "artist": "Aaron Fresh",
+   "lyrics": "(Aaron)\nAaron Fresh\n(Whaa Whaa)\nAye\n( Yo , Yo )\nAyee\nLets Go, Lets Go\n(Yo , Yo)\n\nShe Windin' She Bouncin' She Trinidad Dancin'\nThe Tank Top, Cut Off Jeans Me Lovin' She Fashion\nShe Go Hard Core For Her Boy Like Fatal Attraction\nCuz This For Real And She's A Killer Time For Some Action\n\nAnd When It Gets Good, Real Good She Don't Even Hold Back Back Back\nAnd When She Dance She Make Them Hands Clap Clap Clap\nAnd Then The Kick Drum Go She Get Low Like That That That\nShe Make The DJ Say He Wanna Replay This Track Track Track\n\nAnd Baby All Night I've Been Standin' Here Watchin' You\nAnd I've Been Mesmerized By Everything That You Do, Girl\nThe Way You Grindin' Wanna Take You Flyin'\nTo My Island And Show You How We Get Down, Oh\n\nYou're Such A, Such A Dirty, Dirty Girl And\nMe Love, Me Love Me Dirty, Dirty Girl And\nYou're Such A, Such A Dirty, Dirty Girl And\nMe Love, Me Love Me Dirty, Dirty Girl And\nWhere My Dirty Girls, Dirty Girls, Dirty Girls At? (At)\nWhere My Dirty Girls, Dirty Girls, Dirty Girls At? (At)\nWhere My Dirty Girls, Dirty Girls, Dirty Girls At? (At)\nWhere My Dirty Girls, Dirty Girls, Dirty Girls At? (At)\n\nShe So Dirty, Wanna Hurt Me, Lord Have Mercy\nThe Way She Workin' And Workin' She Got To Be Thirsty\nI Don't Know How She Do It Without Rehearsing\nLike Them Girls In The Videos But Better In Person\n\nAnd When It Gets Good, Real Good She Don't Even Hold Back Back Back\nAnd When She Dance She Make Them Hands Clap Clap Clap\nAnd Then The Kick Drum Go She Get Low Like That That That\nShe Make The DJ Say He Wanna Replay This Track Track Track\n\nAnd Baby All Night I've Been Standin' Here Watchin' You\n\nAnd I've Been Mesmerized By Everything That You Do, Girl\nThe Way You Grindin' Wanna Take You Flyin'\nTo My Island And Show You How We Get Down, Oh\n\nYou're Such A, Such A Dirty, Dirty Girl And\nMe Love, Me Love Me Dirty, Dirty Girl And\nYou're Such A, Such A Dirty, Dirty Girl And\nMe Love, Me Love Me Dirty, Dirty Girl And\nWhere My Dirty Girls, Dirty Girls, Dirty Girls At? (At)\nWhere My Dirty Girls, Dirty Girls, Dirty Girls At? (At)\nWhere My Dirty Girls, Dirty Girls, Dirty Girls At? (At)\nWhere My Dirty Girls, Dirty Girls, Dirty Girls At? (At)\n\n(Cory)\nYea The Girl So Dirty\nLook Real Tender When She Gets Saucy\nBad Man, But A Bad Boy, Big Body\nAnd Any Day Any Night She Gets ???\nOn The Dance Floor With The Music Boomin'\nTo The Groove She Movin' Sippin' Goose And Juice\nAnd The Baton, The Baton For The Dirty Mover\nRight In Her Eyes She Could Read My Junior\nTell The DJ Get Behind The Cerato\nThrow On The Aaron Fresh And A Movato\nSippin Henny Colato With Me And My Vatos\nAnd She Taste Colato And Her Waist Is Flaco\nAnd This Bucket Of Alco Got Me Stuck As A Taco\nAnd She Going Where I Go If You Like It Or Not Though\nShe Told Me She Wanna Go Malitia To The Crib\nGunz, Aaron Fresh You Know What It Is\nGo Girl\n\nYou're Such A, Such A Dirty, Dirty Girl And\nMe Love, Me Love Me Dirty, Dirty Girl And\nYou're Such A, Such A Dirty, Dirty Girl And\nMe Love, Me Love Me Dirty, Dirty Girl And\nWhere My Dirty Girls, Dirty Girls , Dirty Girls At? (At)\nWhere My Dirty Girls, Dirty Girls , Dirty Girls At? (At)\nWhere My Dirty Girls, Dirty Girls , Dirty Girls At? (At)\nWhere My Dirty Girls, Dirty Girls , Dirty Girls At? (At)"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/2372688",
+   "full_title": "Apology by\u00a0Aaron\u00a0Fresh",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1605635080",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1605635080",
+   "id": 2372688,
+   "lyrics_owner_id": 2403362,
+   "lyrics_state": "complete",
+   "path": "/Aaron-fresh-apology-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1605635080",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1605635080",
+   "stats": {
+    "unreviewed_annotations": 2,
+    "hot": false
+   },
+   "title": "Apology",
+   "title_with_featured": "Apology",
+   "url": "https://genius.com/Aaron-fresh-apology-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/11594",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+    "id": 11594,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Aaron Fresh",
+    "url": "https://genius.com/artists/Aaron-fresh"
+   },
+   "artist": "Aaron Fresh",
+   "lyrics": "I'm incredible\n\n[Verse 1: Aaron Fresh]\nI know that I'm a flirt\nThey tell me everyday\nThey love them shy boys who lives out of their way (way)\nI know I leave them on sway on the way back (back)\nThe say that they love me but ain't sending them back (no)\n\n[Chorus]\nSo this is my apo-lo-lo-lo-lo-lo-lo-gy-gy\nYou thought that you was gonna getting with me, me\nSo this is my apo-lo-lo-lo-lo-lo-lo-gy\nCause I'm already in love and I'm not messing it up\nSo I'm sorry\nMy apo-lo-lo-lo-lo-lo-lo-gy-gy\nYou thought that you was gon' be gon' be getting with me, me\nSo this is my apo-lo-lo-lo-lo-lo-lo-gy\nCause I'm already in love and I'm not messing it up\nSo I'm...\n\n[Verse 2: Aaron Fresh]\nSo they tell me that I'm fresh\nI tell them they're fine\nAll these lovely girls got one of a kind\nShe lets me do my thing girl I'm in love with your touch\nAnd the in the other world she's mine\nAnd she is mine\nAnd I am hers\nDon't listen to them, all of this talk is absurd\nAnd she is mine\nAnd I am hers\nDon't listen to them, all of this talk is absurd\n[Chorus]\n\n[Bridge]\nSo she is mine\nAnd I am hers\nDon't listen to them, all of this talk is absurd\nCause she is mine\nAnd I am hers\nDon't listen to them, all of this talk is absurd\nBaby you got my word\n\n[Chorus x2]\n\nSpending all my time loving you and only one girl at it too\n\nSpending all my time loving you and only one girl at it too\n\nSo this is my apo-lo-lo-lo-lo-lo-lo-gy"
+  }
+ ]
+}
